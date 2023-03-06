@@ -16,7 +16,7 @@ with open("requirements-dev.txt", "r", encoding="utf-8") as f:
 
 
 setup(
-    name="ml",
+    name="llama_inference",
     version="0.0.1",
     description="LLaMa model inference repository",
     author="Benjamin Bolte",
